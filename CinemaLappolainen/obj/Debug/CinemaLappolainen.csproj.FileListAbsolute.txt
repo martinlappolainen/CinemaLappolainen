@@ -1,0 +1,9 @@
+C:\Users\opilane\source\repos\CinemaLappolainen\CinemaLappolainen\bin\Debug\CinemaLappolainen.exe.config
+C:\Users\opilane\source\repos\CinemaLappolainen\CinemaLappolainen\bin\Debug\CinemaLappolainen.exe
+C:\Users\opilane\source\repos\CinemaLappolainen\CinemaLappolainen\bin\Debug\CinemaLappolainen.pdb
+C:\Users\opilane\source\repos\CinemaLappolainen\CinemaLappolainen\obj\Debug\CinemaLappolainen.Form1.resources
+C:\Users\opilane\source\repos\CinemaLappolainen\CinemaLappolainen\obj\Debug\CinemaLappolainen.Properties.Resources.resources
+C:\Users\opilane\source\repos\CinemaLappolainen\CinemaLappolainen\obj\Debug\CinemaLappolainen.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\CinemaLappolainen\CinemaLappolainen\obj\Debug\CinemaLappolainen.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\CinemaLappolainen\CinemaLappolainen\obj\Debug\CinemaLappolainen.exe
+C:\Users\opilane\source\repos\CinemaLappolainen\CinemaLappolainen\obj\Debug\CinemaLappolainen.pdb
